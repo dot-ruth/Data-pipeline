@@ -1,5 +1,3 @@
-## README.md
-
 **Twitter Sentiment Analysis Visualization ( Data pipeline )**
 
 This project explores user sentiment on Twitter through data visualization. We analyzed a publicly available dataset of 1.6 million tweets, extracting valuable insights and creating interactive visualizations to understand broader sentiment trends.
